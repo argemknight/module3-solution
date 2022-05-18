@@ -1,0 +1,21 @@
+#header-nav{
+	background-color: lightgrey;
+
+}
+
+#navlist{
+	background-color:darkgrey;
+	text-align:center;
+	margin:12px -12px -12px -12px;
+}
+
+.line{
+	margin-top:0px;
+	margin-bottom:0px;
+}
+
+.panel{
+	background-color: lightgrey;
+	margin-right: auto;
+	margin-left: auto;
+}
